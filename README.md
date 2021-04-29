@@ -1,4 +1,4 @@
-# Welcome to my personal Sci. Prog. repository!
+# Welcome to my Personal Scientific Programming Repository!
 
 This file is the `README.md`
 
